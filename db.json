@@ -1,0 +1,67 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "phone": "9876543210",
+      "company": "TechFusion Pvt Ltd"
+    },
+    {
+      "id": "2",
+      "name": "Aisha Verma",
+      "email": "aisha.verma@example.com",
+      "phone": "9123456780",
+      "company": "Bright Solutions"
+    },
+    {
+      "id": "3",
+      "name": "Karan Singh",
+      "email": "karan.singh@example.com",
+      "phone": "9012345678",
+      "company": "Nova Enterprises"
+    },
+    {
+      "id": "4",
+      "name": "Sneha Patel",
+      "email": "sneha.patel@example.com",
+      "phone": "9988776655",
+      "company": "CloudByte Technologies"
+    },
+    {
+      "id": "5",
+      "name": "Aditya Mehra",
+      "email": "aditya.mehra@example.com",
+      "phone": "9786543210",
+      "company": "SmartEdge Solutions"
+    },
+    {
+      "id": "6",
+      "name": "Neha Kapoor",
+      "email": "neha.kapoor@example.com",
+      "phone": "9871234560",
+      "company": "Vertex Dynamics"
+    },
+    {
+      "id": "7",
+      "name": "Ravi Chauhan",
+      "email": "ravi.chauhan@gmail.com",
+      "phone": "9834567890",
+      "company": "Skyline Infotech"
+    },
+    {
+      "id": "10",
+      "name": "Divya Malhotra",
+      "email": "divya.malhotra@example.com",
+      "phone": "9823456781",
+      "company": "NextGen Solutions"
+    },
+    {
+      "id": "11",
+      "name": "RS",
+      "email": "RishabhS@gmail.com",
+      "phone": "0987654319",
+      "company": "RSS"
+    }
+  ]
+}
